@@ -49,11 +49,11 @@ NPM
     
     var ringneck = new Snake("Ringneck");
     ringneck.speak();
-    //-> alerts "Ringneck says: hissssssssss!"
+    //-> "Ringneck says: hissssssssss!"
     
     var rattlesnake = new Snake("Rattler");
     rattlesnake.speak();
-    //-> alerts "Rattler says: hissssssssss!"
+    //-> "Rattler says: hissssssssss!"
 
 
 Have fun!
