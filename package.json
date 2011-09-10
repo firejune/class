@@ -1,0 +1,31 @@
+{
+  "name": "Class",
+  "author": "Firejune (http://firejune.com/)",
+  "version": "0.1.0",
+  "description": "Port of Prototype.js inheritance implementation for Node.js.",
+  "homepage": "http://github.com/firejune/class",
+  "keywords": [
+    "prototypejs",
+    "inheritance",
+    "implementation",
+    "class"
+  ],
+  "main": "lib/class",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/firejune/class.git"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  }],
+  "bugs" : {
+    "web" : "http://github.com/firejune/class/issues"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
