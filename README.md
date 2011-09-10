@@ -20,7 +20,7 @@ In addition, an instance of a class contains the native JavaScript constructor p
 
 GIT
 
-    $ git clone https://github.com/firejune/class.git
+    $ git clone git://github.com/firejune/class.git
 
 NPM
 
@@ -36,7 +36,7 @@ NPM
       },
     
       speak: function() {
-        alert(this.name + " says: " + this.sound + "!");
+        console.log(this.name + " says: " + this.sound + "!");
       }
     });
     
