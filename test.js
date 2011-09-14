@@ -20,7 +20,7 @@ var Snake = Class.create(Animal, {
 
 var ringneck = new Snake("Ringneck");
 ringneck.speak();
-//-> "Ringneck says: hissssssssss!"
+//-> "Ringneck says: hissssssssss! "
 
 var rattlesnake = new Snake("Rattler");
 rattlesnake.speak();
