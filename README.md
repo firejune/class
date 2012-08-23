@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/firejune/class.png)](http://travis-ci.org/firejune/class)
 # Class
 
 Class.create returns a function that, when called, will fire its own initialize method.
