@@ -28,7 +28,7 @@ NPM
 
 
 ### Code
-
+```javascript
     var Animal = Class.create({
       initialize: function(name, sound) {
         this.name  = name;
@@ -55,7 +55,7 @@ NPM
     rattlesnake.speak();
     //-> "Rattler says: hissssssssss!"
 
-
+```
 Have fun!
 
 
