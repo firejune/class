@@ -12,6 +12,7 @@
     "class"
   ],
   "main": "lib/class",
+  "readmeFilename": "README.md",
   "directories": {
     "lib": "lib"
   },
